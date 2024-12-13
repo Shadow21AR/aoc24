@@ -1,4 +1,4 @@
-import sys,os, time, copy, pprint
+import copy
 
 directions = {
     (-1, 0): [0, 1],
